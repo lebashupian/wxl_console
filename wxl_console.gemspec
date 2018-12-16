@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|  
   s.name        = 'wxl_console'  
-  s.version     = '0.0.0'  
-  s.date        = '2018-12-15'  
+  s.version     = '0.1.0'  
+  s.date        = '2018-12-16'  
   s.summary     = "一个简化版的irb"  
   s.description = "这是一个可以用于代码中断，调试和手工干预代码运行的gem，它有点像irb，但是非常简单。"  
   s.authors     = ["wxl"]  
